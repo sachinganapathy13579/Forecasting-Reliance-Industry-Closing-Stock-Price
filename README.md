@@ -4,7 +4,7 @@
     *  Predict the Reliance Industries Stock price for the next 30 days, i.e. for the month of February. Obtain the open, high, low and close prices from January 2015 to January 2023.
     
 ## The data was collected from :
-    *  [finance.yahoo.](https://finance.yahoo.com/)
+   *  [finance.yahoo.](https://finance.yahoo.com/)
 
 ## Project Architecture :
     * Data Collection
