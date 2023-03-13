@@ -42,4 +42,4 @@
     * Streamlit allows you to re-use any Python code you have already written. This can save considerable amounts of time compared to non-Python based tools where all code to create visualizations needs to be re-written.
     *  It is compatible with major python libraries such as scikit-learn, keras, PyTorch, latex, numpy, pandas, matplotlib, etc.
 
-## Link to the Forecasting Model : https://sachinganapathy13579-forecasting-r-forecastinglstm-model-5egqvl.streamlit.app/
+## Link to the Forecasting Model : https://forecasting-closing-stock-price.streamlit.app/
